@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662054989 source:c:\users\supanut\desktop\data structure\grader\dq1_postfix\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+

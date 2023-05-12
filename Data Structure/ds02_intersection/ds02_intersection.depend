@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660930572 source:c:\users\supanut\desktop\data structure\grader\ds02_intersection\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

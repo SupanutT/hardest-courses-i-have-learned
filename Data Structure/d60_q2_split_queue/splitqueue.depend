@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1664365933 source:c:\users\supanut\desktop\data structure\grader\d60_q2_split_queue\main.cpp
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+
+1509889462 c:\users\supanut\desktop\data structure\grader\d60_q2_split_queue\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1664366700 c:\users\supanut\desktop\data structure\grader\d60_q2_split_queue\student.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<queue>
+	"queue.h"
+

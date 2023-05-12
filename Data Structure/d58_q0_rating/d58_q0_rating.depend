@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1661860237 source:c:\users\supanut\desktop\data structure\grader\d58_q0_rating\main.cpp
+	<iostream>
+	<iomanip>
+	<map>
+	<vector>
+	<algorithm>
+

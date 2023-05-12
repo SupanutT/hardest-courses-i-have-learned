@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1424700287 source:c:\users\supanut\desktop\data structure\grader\d57_q1_sbv\test_stack.cpp
+	<iostream>
+	<stack>
+	<assert.h>
+	"stack.h"
+	"student.h"
+
+1424570628 c:\users\supanut\desktop\data structure\grader\d57_q1_sbv\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1664296043 c:\users\supanut\desktop\data structure\grader\d57_q1_sbv\student.h
+	"stack.h"
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1661886884 source:c:\users\supanut\desktop\data structure\grader\d60_q0_v2m\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<stdio.h>
+	<stdlib.h>
+

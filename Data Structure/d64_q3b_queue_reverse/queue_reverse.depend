@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1637247164 source:c:\users\supanut\desktop\data structure\grader\d64_q3b_queue_reverse\main.cpp
+	<iostream>
+	<string>
+	"queue.h"
+	"student.h"
+
+1637238953 c:\users\supanut\desktop\data structure\grader\d64_q3b_queue_reverse\queue.h
+	<stdexcept>
+	<iostream>
+
+1668967381 c:\users\supanut\desktop\data structure\grader\d64_q3b_queue_reverse\student.h
+	<cassert>
+

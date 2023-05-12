@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1493744120 source:c:\users\supanut\desktop\data structure\grader\d59_q3_list_split\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"student.h"
+
+1666358482 c:\users\supanut\desktop\data structure\grader\d59_q3_list_split\list.h
+	<stdexcept>
+	<iostream>
+
+1666697265 c:\users\supanut\desktop\data structure\grader\d59_q3_list_split\student.h
+

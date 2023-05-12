@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1606104525 source:c:\users\supanut\desktop\data structure\grader\d63_q4a_list_reverse\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1635788313 c:\users\supanut\desktop\data structure\grader\d63_q4a_list_reverse\list.h
+	<stdexcept>
+	<iostream>
+
+1666692785 c:\users\supanut\desktop\data structure\grader\d63_q4a_list_reverse\student.h
+	<algorithm>
+

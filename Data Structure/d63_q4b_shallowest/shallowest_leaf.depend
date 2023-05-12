@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1606127208 source:c:\users\supanut\desktop\data structure\grader\d63_q4b_shallowest\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1606127190 c:\users\supanut\desktop\data structure\grader\d63_q4b_shallowest\map_bst.h
+	<iostream>
+
+1668952812 c:\users\supanut\desktop\data structure\grader\d63_q4b_shallowest\student.h
+	<algorithm>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662481150 source:c:\users\supanut\desktop\data structure\grader\d62_q1b_queue_count\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

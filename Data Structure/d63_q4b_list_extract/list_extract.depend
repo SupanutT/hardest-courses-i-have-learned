@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1606271913 source:c:\users\supanut\desktop\data structure\grader\d63_q4b_list_extract\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1635788299 c:\users\supanut\desktop\data structure\grader\d63_q4b_list_extract\list.h
+	<stdexcept>
+	<iostream>
+
+1668972652 c:\users\supanut\desktop\data structure\grader\d63_q4b_list_extract\student.h
+	<algorithm>
+

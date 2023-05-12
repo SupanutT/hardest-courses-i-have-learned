@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637203314 source:c:\users\supanut\desktop\data structure\grader\d64_q4a_list_merge\main.cpp
+	<cassert>
+	<vector>
+	<iostream>
+	<string>
+	"list.h"
+	"student.h"
+
+1637238663 c:\users\supanut\desktop\data structure\grader\d64_q4a_list_merge\list.h
+	<stdexcept>
+	<iostream>
+
+1668972018 c:\users\supanut\desktop\data structure\grader\d64_q4a_list_merge\student.h
+	<algorithm>
+

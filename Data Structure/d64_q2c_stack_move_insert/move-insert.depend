@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1637084130 source:c:\users\supanut\desktop\data structure\grader\d64_q2c_stack_move_insert\main.cpp
+	<iostream>
+	<vector>
+	"stack.h"
+	"student.h"
+
+1637082885 c:\users\supanut\desktop\data structure\grader\d64_q2c_stack_move_insert\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	"stack.h"
+
+1664968354 c:\users\supanut\desktop\data structure\grader\d64_q2c_stack_move_insert\student.h
+

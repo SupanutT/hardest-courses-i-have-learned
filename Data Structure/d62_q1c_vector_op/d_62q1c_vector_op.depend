@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660752696 source:c:\users\supanut\desktop\data structure\grader\d_62q1c_vector_op\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

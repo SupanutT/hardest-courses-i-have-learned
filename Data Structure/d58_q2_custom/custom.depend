@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1459275569 source:c:\users\supanut\desktop\data structure\grader\d58_q2_custom\main.cpp
+	<iostream>
+	<vector>
+	"song.h"
+
+1666635065 c:\users\supanut\desktop\data structure\grader\d58_q2_custom\song.h
+	<iostream>
+	<queue>
+	<string>
+	<vector>
+	"priority_queue.h"
+
+1459277820 c:\users\supanut\desktop\data structure\grader\d58_q2_custom\priority_queue.h
+	<stdexcept>
+	<iostream>
+

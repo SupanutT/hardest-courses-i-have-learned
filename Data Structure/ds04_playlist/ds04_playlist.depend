@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666682891 source:c:\users\supanut\desktop\data structure\grader\ds04_playlist\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1488942532 source:c:\users\supanut\desktop\data structure\grader\d59_q1_range_insert\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1488856347 c:\users\supanut\desktop\data structure\grader\d59_q1_range_insert\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1666710584 c:\users\supanut\desktop\data structure\grader\d59_q1_range_insert\student.h
+

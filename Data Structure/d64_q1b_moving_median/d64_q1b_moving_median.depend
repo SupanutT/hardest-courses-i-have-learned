@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664373110 source:c:\users\supanut\desktop\data structure\grader\d64_q1b_moving_median\main.cpp
+	<iostream>
+	<queue>
+	<set>
+	<algorithm>
+

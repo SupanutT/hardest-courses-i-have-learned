@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1603852577 source:c:\users\supanut\desktop\data structure\grader\d63_q3b_queue_b2f\main.cpp
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+	<stdio.h>
+
+1603781770 c:\users\supanut\desktop\data structure\grader\d63_q3b_queue_b2f\queue.h
+	<stdexcept>
+	<iostream>
+
+1666718228 c:\users\supanut\desktop\data structure\grader\d63_q3b_queue_b2f\student.h
+	<algorithm>
+	<iostream>
+

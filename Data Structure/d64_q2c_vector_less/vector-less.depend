@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637205240 source:c:\users\supanut\desktop\data structure\grader\d64_q2c_vector_less\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<cassert>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1637134736 c:\users\supanut\desktop\data structure\grader\d64_q2c_vector_less\vector.h
+	<stdexcept>
+	<iostream>
+
+1666714050 c:\users\supanut\desktop\data structure\grader\d64_q2c_vector_less\student.h
+

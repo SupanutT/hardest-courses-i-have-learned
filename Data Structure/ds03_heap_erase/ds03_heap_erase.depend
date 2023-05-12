@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666606535 source:c:\users\supanut\desktop\data structure\grader\ds03_heap_erase\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	<stdexcept>
+

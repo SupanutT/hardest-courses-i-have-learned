@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1668968269 source:c:\users\supanut\desktop\data structure\grader\d64_q3b_heap_level\main.cpp
+	<algorithm>
+	<random>
+	<chrono>
+	<cassert>
+	<string>
+	"priority_queue.h"
+	"student.h"
+	<vector>
+
+1637328225 c:\users\supanut\desktop\data structure\grader\d64_q3b_heap_level\priority_queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1668968740 c:\users\supanut\desktop\data structure\grader\d64_q3b_heap_level\student.h
+	<algorithm>
+	<vector>
+	"priority_queue.h"
+

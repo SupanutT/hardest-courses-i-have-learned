@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1603706303 source:c:\users\supanut\desktop\data structure\grader\d63_heap_change\main.cpp
+	<iostream>
+	<vector>
+	"priority_queue.h"
+	"student.h"
+
+1603706172 c:\users\supanut\desktop\data structure\grader\d63_heap_change\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1666609084 c:\users\supanut\desktop\data structure\grader\d63_heap_change\student.h
+	<assert.h>
+

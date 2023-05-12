@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601216978 source:c:\users\supanut\desktop\data structure\grader\d63_q2a_vector_mirror\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1601216590 c:\users\supanut\desktop\data structure\grader\d63_q2a_vector_mirror\vector.h
+	<stdexcept>
+	<iostream>
+
+1663229632 c:\users\supanut\desktop\data structure\grader\d63_q2a_vector_mirror\student.h
+

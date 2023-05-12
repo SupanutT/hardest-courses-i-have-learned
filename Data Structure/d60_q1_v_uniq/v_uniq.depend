@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1508116977 source:c:\users\supanut\desktop\data structure\grader\d60_q1_v_uniq\main.cpp
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507942111 c:\users\supanut\desktop\data structure\grader\d60_q1_v_uniq\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1664109257 c:\users\supanut\desktop\data structure\grader\d60_q1_v_uniq\student.h
+	<unordered_set>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572188724 source:c:\users\supanut\desktop\data structure\grader\d62_q2b_vector_insert_many\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+	<vector>
+
+1571926314 c:\users\supanut\desktop\data structure\grader\d62_q2b_vector_insert_many\vector.h
+	<stdexcept>
+	<iostream>
+
+1666708896 c:\users\supanut\desktop\data structure\grader\d62_q2b_vector_insert_many\student.h
+	<algorithm>
+

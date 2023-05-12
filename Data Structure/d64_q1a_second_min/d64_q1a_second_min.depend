@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1662053339 source:c:\users\supanut\desktop\data structure\grader\d64_q1a_second_min\main.cpp
+	<algorithm>
+	<iostream>
+	<stack>
+	<queue>
+	<vector>
+	<set>
+	<map>
+	<list>
+

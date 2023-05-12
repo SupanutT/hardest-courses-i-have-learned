@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1461641480 source:c:\users\supanut\desktop\data structure\grader\d58_q3_list_replace\main.cpp
+	<stdexcept>
+	<iostream>
+	"replace.h"
+
+1666699364 c:\users\supanut\desktop\data structure\grader\d58_q3_list_replace\replace.h
+

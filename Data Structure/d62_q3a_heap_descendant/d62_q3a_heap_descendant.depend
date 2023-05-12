@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666632165 source:c:\users\supanut\desktop\data structure\grader\d62_q3a_heap_descendant\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<queue>
+	<algorithm>
+

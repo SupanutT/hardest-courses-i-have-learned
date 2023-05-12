@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1664351293 source:c:\users\supanut\desktop\data structure\grader\d64_q2a_stack_from_set\main.cpp
+	<iostream>
+	<stack>
+	"student.h"
+	<assert.h>
+	<exception>
+	<set>
+	<string>
+	<sstream>
+
+1665331290 c:\users\supanut\desktop\data structure\grader\d64_q2a_stack_from_set\student.h
+	"stack.h"
+
+1633877894 c:\users\supanut\desktop\data structure\grader\d64_q2a_stack_from_set\stack.h
+	<stdexcept>
+	<iostream>
+	<set>
+

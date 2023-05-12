@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662800041 source:c:\users\supanut\desktop\data structure\grader\d65_q1a_delivery\main.cpp
+	<iostream>
+	<queue>
+	<set>
+	<vector>
+	<algorithm>
+

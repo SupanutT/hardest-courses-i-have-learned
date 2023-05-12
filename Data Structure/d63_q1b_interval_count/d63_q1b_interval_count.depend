@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661877088 source:c:\users\supanut\desktop\data structure\grader\d63_q1b_interval_count\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1574567664 source:c:\users\supanut\desktop\data structure\grader\d62_q4a_list_shift\package\main.cpp
+	<stdexcept>
+	<iostream>
+	"list.h"
+	"student.h"
+	<vector>
+
+1574567549 c:\users\supanut\desktop\data structure\grader\d62_q4a_list_shift\package\list.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<set>
+
+1666693641 c:\users\supanut\desktop\data structure\grader\d62_q4a_list_shift\package\student.h
+	<algorithm>
+

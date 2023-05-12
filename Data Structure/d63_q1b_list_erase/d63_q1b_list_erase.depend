@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661884181 source:c:\users\supanut\desktop\data structure\grader\d63_q1b_list_erase\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+

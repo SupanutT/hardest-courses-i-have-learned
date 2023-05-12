@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1542722612 source:c:\users\supanut\desktop\data structure\grader\d61_q2_splitlist\main.cpp
+	<iostream>
+	"list.h"
+
+1542726422 c:\users\supanut\desktop\data structure\grader\d61_q2_splitlist\list.h
+	<stdexcept>
+	<iostream>
+	"student.h"
+
+1666694852 c:\users\supanut\desktop\data structure\grader\d61_q2_splitlist\student.h
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1635223343 source:c:\users\supanut\desktop\data structure\grader\d64_q2b_vector_rotate\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<cassert>
+	"vector.h"
+	"student.h"
+
+1635219167 c:\users\supanut\desktop\data structure\grader\d64_q2b_vector_rotate\vector.h
+	<stdexcept>
+	<iostream>
+
+1666715300 c:\users\supanut\desktop\data structure\grader\d64_q2b_vector_rotate\student.h
+

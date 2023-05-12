@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1661141824 source:c:\users\supanut\desktop\data structure\grader\d62_q1c_vector_intersection\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<algorithm>
+	<iterator>
+

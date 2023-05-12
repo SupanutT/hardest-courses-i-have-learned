@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664131433 source:c:\users\supanut\desktop\data structure\grader\d64_q2a_vector_block_swap\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1633880727 c:\users\supanut\desktop\data structure\grader\d64_q2a_vector_block_swap\vector.h
+	<stdexcept>
+	<iostream>
+
+1666715840 c:\users\supanut\desktop\data structure\grader\d64_q2a_vector_block_swap\student.h
+

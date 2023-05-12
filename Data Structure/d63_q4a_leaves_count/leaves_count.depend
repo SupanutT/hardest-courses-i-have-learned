@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1668957847 source:c:\users\supanut\desktop\data structure\grader\d63_q4a_leaves_count\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1574570253 c:\users\supanut\desktop\data structure\grader\d63_q4a_leaves_count\map_bst.h
+	<iostream>
+
+1668957865 c:\users\supanut\desktop\data structure\grader\d63_q4a_leaves_count\student.h
+	<algorithm>
+	<iostream>
+

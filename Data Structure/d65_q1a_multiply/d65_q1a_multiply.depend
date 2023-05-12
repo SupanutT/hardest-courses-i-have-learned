@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664375963 source:c:\users\supanut\desktop\data structure\grader\d65_q1a_multiply\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<algorithm>
+

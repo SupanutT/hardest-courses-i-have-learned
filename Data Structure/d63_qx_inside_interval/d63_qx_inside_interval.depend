@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661873620 source:c:\users\supanut\desktop\data structure\grader\d63_qx_inside_interval\main.cpp
+	<iostream>
+	<map>
+	<iterator>
+

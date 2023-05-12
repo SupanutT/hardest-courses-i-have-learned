@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1665304565 source:c:\users\supanut\downloads\package-vector-no-move\package\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector-nm.h"
+	"student.h"
+
+1665301996 c:\users\supanut\downloads\package-vector-no-move\package\vector-nm.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1665392180 c:\users\supanut\downloads\package-vector-no-move\package\student.h
+	<algorithm>
+
